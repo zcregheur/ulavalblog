@@ -1,29 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-01-18 07:28:42 -0500
+title:  "Les efforts de Québec pour une transformation numérique de la province"
+date:   2022-01-29 14:17:00 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+En mars 2021, le gouvernement québécois avait annoncé un nouveau programme appelé l'Offensive de Transformation Numérique (OTN) dans le but d'aider les entreprises et organismes québécois à adopter le numérique dans leur organisation. Cette initiative a pour but de sensibiliser les entreprises à intégrer le numérique dans leur stratégie d'affaires, mais aussi d'en aider d'autres à développer une stratégie numérique et la mettre en oeuvre. Le but est de stimuler ce changement dans le plus d'industries différentes possible afin de faire avancer le Québec dans son ensemble sur la scène numérique.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Cette semaine, Pierre Fitzgibbon, ministre de l'Économie et de l'Innovation et ministre responsable du Développement économique régional, a annoncé l'ajout de 24.6M$ ce qui élargit le support de l'OTN à plus de 49 000 entreprises sensibilisées, dont 11 000 d'entre elles seront accompagnées dans leur transformation.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Il semblerait que le gouvernement tente de développer une communauté de PME afin d'encourager le développement de nouvelles idées parmi celles-ci en leur donnant les moyens financiers et en les aidant à le faire de manière structurée avec une vision long terme. Ces méthodes sont toutes de bonnes pratiques illustrées au chapitre 4 du livre IT Strategy & Innovation par James D. Mckeen et Heater A. Smith. 
 
-Jekyll also offers powerful support for code snippets:
+Il fait du bien de voir que le gouvernement respecte ses engagements afin de pousser la transformation numérique au Québec. Nous manquions d'innovations sur la scène internationale et beaucoup d'entreprises étaient (certaines le sont toujours) en retard si on les compare aux compétiteurs étrangers. L'OTN est peut-être une façon d'obtenir des idées d'innovations à calquer et appliquer directement au gouvernement, qui a fort besoin lui-même d'innovation dans tous ses ministères.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Sources:
+https://www.quebec.ca/nouvelles/actualites/details/offensive-de-transformation-numerique-pres-de-25-m-supplementaires-pour-accelerer-le-virage-numerique-du-quebec-37495
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+https://www.quebec.ca/nouvelles/actualites/details/offensive-de-transformation-numerique-130-m-dans-les-douze-prochains-mois-lancement-dune-grande-offensive-de-transformation-numerique-des-entreprises-de-toutes-les-regions-du-quebec
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+McKeen, J. & Smith, H. (2019). IT Strategy & Innovation, Edition 4.0. Prospect Press
